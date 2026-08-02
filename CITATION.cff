@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this framework, cite it as below."
+type: software
+title: "The Macachor Scalar Theorem: Corollaries, Lemmas, and Coherence Architecture"
+authors:
+  - family-names: "Macachor"
+    given-names: "Christopher"
+    orcid: "https://orcid.org/0009-0008-0100-2856"
+    affiliation: "Unaffiliated"
+    website: "https://www.macachor.org/"
+repository-code: "https://github.com/macachor-scalar-theorem"
+license: CC-BY-4.0
+date-released: 2026-08-02
+keywords:
+  - scalar field theory
+  - Pythagorean theorem
+  - quaternion algebra
+  - quantum coherence
+  - scalar density equilibrium
+  - Macachor Absolute
+  - KIWF
+  - CRHA
+  - aperture governance
+  - flux pinning
