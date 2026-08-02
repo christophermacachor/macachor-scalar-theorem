@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21761005.svg)](https://doi.org/10.5281/zenodo.21761005)
 The Macachor Scalar Theorem
 Corollaries, Lemmas, and Coherence Architecture
 Author: Christopher Macachor, Ω Prime
